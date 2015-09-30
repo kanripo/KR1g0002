@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 鄭志
-#+DATE: 2015-09-23 09:40:49
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:18:25.122892
+#+PROPERTY: ID KR1g0002
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷上
 <pb:KR1g0002_WYG_001-1a>¶
 欽定四庫全書¶
 　鄭志卷上¶
@@ -308,4 +310,3 @@
 　¶
 　¶
 　鄭志卷上¶
-
